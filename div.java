@@ -11,7 +11,7 @@ public class BasicCalculator {
         System.out.println("Enter the second number:");
         num2 = sc.nextDouble();
                 result = num1 / num2;
-                System.out.println(num1 + " / " + num2 + " = " + result);
+                System.out.println(num1 + " / " + num2 + " = " + result) ;
         sc.close();
     }
 }
